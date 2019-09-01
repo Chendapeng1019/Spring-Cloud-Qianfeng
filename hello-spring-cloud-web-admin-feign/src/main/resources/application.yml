@@ -8,7 +8,7 @@ spring:
     servlet:
       content-type: text/html
 server:
-  port: 8770
+  port: 8765
 
 
 feign:

@@ -3,7 +3,7 @@ spring:
     name: hello-spring-cloud-service-admin
 
 server:
-  port: 8767
+  port: 8763
 
 eureka:
   client:
