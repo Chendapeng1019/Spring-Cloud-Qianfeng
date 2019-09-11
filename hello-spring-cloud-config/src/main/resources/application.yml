@@ -6,10 +6,10 @@ spring:
       label: master
       server:
         git:
-          uri: https://github.com/topsale/spring-cloud-config
-          search-paths: respo
-          username:
-          password:
+          uri: https://github.com/Chendapeng1019/Spring-Cloud-Qianfeng.git
+          search-paths: spring-cloud-config
+          username: 714491235@qq.com
+          password: 15079011662Cdp
 
 server:
   port: 8888
